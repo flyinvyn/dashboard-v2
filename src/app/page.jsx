@@ -1,7 +1,7 @@
 import ExpensesAndIncome from "./components/ExpensesAndIncome";
 import LatestSpending from "./components/LatestSpending";
 import PremiumFeatures from "./components/PremiumFeatures";
-import Sidebar from "./components/sidebar/Sidebar";
+import Sidebar from "./components/Sidebar/Sidebar";
 
 export default function Home() {
   return (
