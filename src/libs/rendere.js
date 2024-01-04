@@ -1,8 +1,8 @@
-import Clock from "@/app/components/menu/Clock";
-import Dashboard from "@/app/components/menu/Dashboard";
-import Notification from "@/app/components/menu/Notification";
-import Setting from "@/app/components/menu/Setting";
-import Users from "@/app/components/menu/Users";
+import Clock from "@/app/components/Menu/Clock";
+import Dashboard from "@/app/components/Menu/Dashboard";
+import Notification from "@/app/components/Menu/Notification";
+import Setting from "@/app/components/Menu/Setting";
+import Users from "@/app/components/Menu/Users";
 
 export default function renderer(param) {
     switch (param) {
